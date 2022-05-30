@@ -47,7 +47,7 @@ const Projects = () => {
               <Card src={net} title="Instuctional Dashboard" description="Dashboard for instructors that creates and visualizes learning networks using R, Shiny, SQL, and visNetwork" urlCode="https://github.com/tyohare/Instructional-Dashboard" urlDemo="https://youtu.be/4yoQoBPY6qk" hasDemo={true}/>
 
               <Card src={cshell} title="CShell" description="An interactive C based shell that can run bash commands as well as other custom commands"urlCode="https://github.com/tyohare/CShell" hasDemo={false}/>
-              <Card src={myWeb} title="Portfolio Website" description="The site you're on right now! Built with HTML, CSS, React, Framer Motion, and Chakra UI " urlCode="https://github.com/tyohare/polardev" urlDemo="https://tylerohareweb.herokuapp.com/" hasDemo={true}/>
+              <Card src={myWeb} title="Portfolio Website" description="The site you're on right now! Built with HTML, CSS, React, Framer Motion, and Chakra UI " urlCode="https://github.com/tyohare/polardev" urlDemo="https://tylerohareweb.herokuapp.com/" hasDemo={false}/>
 
             </div>
 
